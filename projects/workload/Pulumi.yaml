@@ -1,0 +1,3 @@
+name: aws-cdk-pulumi-cloudwan-workshop-sample
+runtime: nodejs
+description: AWS Cloud WAN workshop sample
