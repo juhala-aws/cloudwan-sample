@@ -1,20 +1,20 @@
 {
     "name": "aws-cdk-pulumi-cloudwan-workshop-sample",
     "devDependencies": {
-        "@types/node": "^18",
-        "@typescript-eslint/eslint-plugin": "^5.32.0",
-        "@typescript-eslint/parser": "^5.32.0",
-        "eslint": "^8.21.0",
-        "eslint-config-standard": "^17.0.0",
-        "eslint-plugin-import": "^2.26.0",
-        "eslint-plugin-n": "^15.2.4",
-        "eslint-plugin-promise": "^6.0.0"
+        "@types/node": "^20",
+        "@typescript-eslint/eslint-plugin": "^5.59.11",
+        "@typescript-eslint/parser": "^5.59.11",
+        "eslint": "^8.42.0",
+        "eslint-config-standard": "^17.1.0",
+        "eslint-plugin-import": "^2.27.5",
+        "eslint-plugin-n": "^16.0.0",
+        "eslint-plugin-promise": "^6.1.1"
     },
     "dependencies": {
-        "@pulumi/aws": "^5.15.0",
-        "@pulumi/awsx": "^0.40.0",
-        "@pulumi/cdk": "^0.3.0",
-        "@pulumi/pulumi": "^3.37.1",
-        "aws-cdk-lib": "^2.33.0"
+        "@pulumi/aws": "^5.41.0",
+        "@pulumi/awsx": "^1.0.2",
+        "@pulumi/cdk": "^0.4.0",
+        "@pulumi/pulumi": "^3.71.0",
+        "aws-cdk-lib": "^2.83.1"
     }
 }
